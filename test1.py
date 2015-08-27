@@ -14,6 +14,7 @@ if result1:
 else:
     print '1匹配失败!'
 
+
 if result2:
     print result2.group()
 else:
